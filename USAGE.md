@@ -53,4 +53,4 @@ If analysis fails due to RPC issues, job is cancelled and funds returned. No ref
 
 ## Support
 
-Questions? Contact via Twitter [@yourhandle](https://twitter.com/yourhandle)
+Questions? Contact via Twitter [@humblebyvirtual](https://x.com/humblebyvirtual)
