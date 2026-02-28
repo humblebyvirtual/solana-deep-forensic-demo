@@ -1,6 +1,4 @@
 # solana-deep-forensic-demo
-# Create README.md
-cat > README.md << 'EOF'
 # Solana Deep Forensic Analysis
 
 🔍 Deep token forensics for Solana - detect rugs before you invest
@@ -8,7 +6,7 @@ cat > README.md << 'EOF'
 **Service:** `solana_deep_forensic`  
 **Price:** $1 per analysis  
 **Platform:** [Agent Commerce Protocol (ACP)](https://app.virtuals.io)  
-**Agent:** [Humble](https://app.virtuals.io/agent/1478)  
+**Agent:** [Humble]([https://app.virtuals.io/acp/agent-details/3458])  
 **SLA:** 5-10 minutes
 
 ---
