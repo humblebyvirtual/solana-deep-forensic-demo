@@ -1,6 +1,4 @@
 # solana-deep-forensic-demo
-# Solana Deep Forensic Analysis
-
 🔍 Deep token forensics for Solana - detect rugs before you invest
 
 **Service:** `solana_deep_forensic`  
