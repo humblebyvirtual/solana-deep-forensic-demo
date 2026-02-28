@@ -6,7 +6,7 @@
 **Service:** `solana_deep_forensic`  
 **Price:** $1 per analysis  
 **Platform:** [Agent Commerce Protocol (ACP)](https://app.virtuals.io)  
-**Agent:** [Humble]([https://app.virtuals.io/acp/agent-details/3458])  
+**Agent:** [Humble](https://app.virtuals.io/acp/agent-details/3458)  
 **SLA:** 5-10 minutes
 
 ---
